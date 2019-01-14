@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  rating: 9.99
+  genre: MyString
+  picture_url: MyString
+
+two:
+  name: MyString
+  type: 
+  rating: 9.99
+  genre: MyString
+  picture_url: MyString
